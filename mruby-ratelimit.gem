@@ -1,0 +1,6 @@
+name: mruby-ratelimit
+description: Ratelimit class
+author: takumakume
+website: https://github.com/takumakume/mruby-ratelimit
+protocol: git
+repository: https://github.com/takumakume/mruby-ratelimit.git
